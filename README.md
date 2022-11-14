@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2><div id="header" align="center">
+Hi there 👋
 
-<!--
-**frontsteron/frontsteron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Denis Yershov
+  
+Frontend developer
+</div></h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I am currently learning a lot about programming
+* 👯 I look forward to cooperation in a lamp atmosphere
+* 💬 Ask me about a healthy lifestyle
+* ⚡ Fun fact: [my photo exhibition](https://youtu.be/NO04Sy3U9Gs)
+* 📫 How to reach me: TG [@frontsteron](https://t.me/frontsteron) & email <a href="mailto:frontsteron@gmail.com">frontsteron@gmail.com</a>
